@@ -4,19 +4,19 @@
     "url": "https://jainstavan.in",
     "icon": "https://icons.duckduckgo.com/ip3/jainstavan.in.ico",
     "slug": "stavan",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1120,
-    "timeDay": 1031,
-    "timeWeek": 1120,
-    "timeMonth": 1120,
-    "timeYear": 1120,
+    "status": "up",
+    "uptime": "91.97%",
+    "uptimeDay": "75.45%",
+    "uptimeWeek": "91.97%",
+    "uptimeMonth": "91.97%",
+    "uptimeYear": "91.97%",
+    "time": 1135,
+    "timeDay": 1120,
+    "timeWeek": 1135,
+    "timeMonth": 1135,
+    "timeYear": 1135,
     "dailyMinutesDown": {
-      "2024-09-13": 0
+      "2024-09-13": 354
     }
   }
 ]
