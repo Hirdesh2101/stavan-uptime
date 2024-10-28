@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/jainstavan.in.ico",
     "slug": "stavan",
     "status": "up",
-    "uptime": "99.47%",
+    "uptime": "99.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.47%",
-    "time": 1126,
-    "timeDay": 1030,
-    "timeWeek": 1117,
-    "timeMonth": 1123,
-    "timeYear": 1126,
+    "uptimeYear": "99.48%",
+    "time": 1124,
+    "timeDay": 1048,
+    "timeWeek": 1101,
+    "timeMonth": 1120,
+    "timeYear": 1124,
     "dailyMinutesDown": {
       "2024-09-13": 354
     }
